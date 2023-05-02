@@ -3,9 +3,9 @@ JavaTest
 
 
 
-Neste desafio você deverá imlementar uma API REST e um frontend para consumo da API criada.
+Neste desafio você deverá implementar uma API REST e um frontend para consumo da API criada.
 
-Levar em consideração o seguinte ER
+Levar em consideração o seguinte ER:
 
 ![image](https://user-images.githubusercontent.com/4172391/235768601-8114c9ae-92c6-4023-b756-8b340d78e586.png)
 
@@ -23,21 +23,23 @@ Levar em consideração o seguinte ER
 * Implementar mecanismo de autorização e autenticação, bem como não permitir acesso ao endpoint a partir de domínios diversos do qual estará hospedado o serviço;
 
 
-## O que vamos avaliar
+## O que vamos avaliar?
 
-- Qualidade do código
-- Estrutura do projeto
-- Qualidade de Frontend
-- Conhecimento em banco de dados
-- Cobertura de código por testes
-- Implementação dos métodos post, put, get;
+- Qualidade do código;
+- Estrutura do projeto;
+- Qualidade de Frontend;
+- Conhecimento em banco de dados;
+- Cobertura de código por testes;
+- Implementação dos métodos post, put, get.
 
 
 
 
 ## Observações:
-* Criar o código, publicar na sua conta do gihub e compartilhar em modo público
-* O prazo para desenvolvimento é de 2 dias após o envio deste teste
+* Criar o código, publicar na sua conta do gihub e compartilhar em modo público.
+* Em caso de dúvidas durante a execução do desafio, só chamar a recruiter que está conduzindo o seu processo de seleção.
+* O prazo para desenvolvimento será de 2 dias, ou seja, 48h após o envio deste teste, caso necessite de mais tempo, favor sinalizar a recruiter que está conduzindo o seu processo de seleção. 
+
 
 
 Boa sorte!
