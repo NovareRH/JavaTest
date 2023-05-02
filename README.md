@@ -12,15 +12,15 @@ Levar em consideração o seguinte ER:
 
 ## Requerimentos:
 
-* Utilizar linguagem de programação Java, podendo optar por usar Spring Boot
+* Utilizar linguagem de programação Java, podendo optar por usar Spring Boot;
 * Utilizar no frontend AngularJS, JavaScript, Bootstrap;
 * Ter uma tela de cadastro de usuários contento os seguintes campos: nome, email, senha, perfil de acesso;
-* Ter uma tela de detalhes para visualização dos dados do usuario e alteração dos dados
-* Ter uma tela de listagem de usuario com paginação e filtro por email e nome
+* Ter uma tela de detalhes para visualização dos dados do usuario e alteração dos dados;
+* Ter uma tela de listagem de usuario com paginação e filtro por email e nome;
 * Usar um banco de dados relacional para persistência dos dados (ex: Mysql, postgrees, MariaDB etc...)
-* Implementar testes unitários na API desenvolvida.
+* Implementar testes unitários na API desenvolvida;
 * Orquestrar a solução final utilizando Docker Compose de modo que inclua todos os contêineres utilizados (Banco de Dados, Artefato Java);
-* Implementar mecanismo de autorização e autenticação, bem como não permitir acesso ao endpoint a partir de domínios diversos do qual estará hospedado o serviço;
+* Implementar mecanismo de autorização e autenticação, bem como não permitir acesso ao endpoint a partir de domínios diversos do qual estará hospedado o serviço.
 
 
 ## O que vamos avaliar?
